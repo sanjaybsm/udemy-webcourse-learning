@@ -1,0 +1,21 @@
+body{
+  border: solid 40px gray;
+  border-top: 0px;
+  background: #181145;
+  font-family: 'Abril Fatface', cursive;
+  color: white;
+  text-align: center;
+}
+
+input{
+  height: 30px;
+  width: 250px;
+}
+
+#sup{
+  height: 40px;
+  width: 150px;
+  background-color: red;
+  font-size: 1em;
+  border-radius: 25px;
+}
